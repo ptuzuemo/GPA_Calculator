@@ -1,0 +1,17 @@
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\obj\Debug\net6.0-windows\Midterm project.vbproj.AssemblyReference.cache
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\obj\Debug\net6.0-windows\Midterm_project.Form1.resources
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\obj\Debug\net6.0-windows\Midterm project.vbproj.GenerateResource.cache
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\obj\Debug\net6.0-windows\Midterm project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\obj\Debug\net6.0-windows\Midterm project.AssemblyInfoInputs.cache
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\obj\Debug\net6.0-windows\Midterm project.AssemblyInfo.vb
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\obj\Debug\net6.0-windows\Midterm project.vbproj.CoreCompileInputs.cache
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\bin\Debug\net6.0-windows\Midterm project.exe
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\bin\Debug\net6.0-windows\Midterm project.deps.json
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\bin\Debug\net6.0-windows\Midterm project.runtimeconfig.json
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\bin\Debug\net6.0-windows\Midterm project.dll
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\bin\Debug\net6.0-windows\Midterm project.pdb
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\obj\Debug\net6.0-windows\Midterm project.dll
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\obj\Debug\net6.0-windows\refint\Midterm project.dll
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\obj\Debug\net6.0-windows\Midterm project.pdb
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\obj\Debug\net6.0-windows\Midterm project.genruntimeconfig.cache
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Midterm project\Midterm project\obj\Debug\net6.0-windows\ref\Midterm project.dll
